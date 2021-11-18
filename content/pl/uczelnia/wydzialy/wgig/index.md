@@ -22,6 +22,38 @@ Informacje podstawowe:
 
 - - -
 
+## UWAGA!
+
+Zgodnie z Komunikatem nr 35 Kanclerza UJ z dnia 17 listopada 2021 r. w sprawie organizacji pracy na Uniwersytecie Jagiellońskim, decyzją Dziekana Wydziału Geografii i Geologii od 22 listopada Dziekanat ds. studenckich będzie pracował w trybie rotacyjnym zgodnie z poniższym harmonogramem:\
+praca stacjonarna, dyżury dla studentów tylko w dniach:\
+\
+Kierunek \
+Geologia,\
+mgr Ewa Kwiatkowska\
+Poniedziałek, środa 10-13\
+\
+Kierunek\
+e-gospodarka przestrzenna, \
+mgr Ewa Kwiatkowska\
+Poniedziałek Środa 10-13\
+\
+Kierunek\
+Geografia i gospodarka przestrzenna, Geografia, \
+mgr Anna Strzelec\
+Wtorek, Czwartek 10-13\
+\
+Pomoc materialna\
+Mgr Szymon Skurzok\
+Poniedziałek, Środa 10-13\
+\
+Studia doktoranckie, szkoła doktorska, \
+mgr Elżbieta Krąż\
+Wtorek, Czwartek 10-13\
+\
+W pozostałe dni kontakt z właściwymi pracownikami możliwy tylko drogą mailową.  
+
+- - -
+
 ## [](#struktura)Struktura
 
 * **Wydziałowy Pełnomocnik ds. interdyscyplinarnego rozwoju naukowego na WGiG UJ** dr Jarosław Działek
@@ -71,8 +103,6 @@ Adresy e-mail: \
 
 Telefon kontaktowy:  12-664-52-50\
 Faks: 12-664-5385 
-
-
 
 Sekretariat ogólny:
 
